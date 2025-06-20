@@ -82,7 +82,7 @@ gemini-chatbot-api/
 
 ## Screenshot Project
 
-![App Screenshot](https://raw.githubusercontent.com/novi-adi/repo/main/public/images/screenshot_app.gif 'Screenshot of the app')
+![App Screenshot](https://raw.githubusercontent.com/novi-adi/gemini-chatbot-api/refs/heads/main/public/images/screenshot_app.gif 'Screenshot of the app')
 
 ## License
 
