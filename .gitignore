@@ -1,0 +1,5 @@
+# Direktori node_modules
+node_modules/
+
+# File konfigurasi
+.env
